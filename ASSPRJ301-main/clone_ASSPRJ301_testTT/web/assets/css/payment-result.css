@@ -1,0 +1,7 @@
+
+body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+.message { font-size: 24px; margin-bottom: 20px; }
+.success { color: #27ae60; }
+.error { color: #e74c3c; }
+a { text-decoration: none; color: #1abc9c; font-weight: bold; }
+a:hover { color: #16a085; }
